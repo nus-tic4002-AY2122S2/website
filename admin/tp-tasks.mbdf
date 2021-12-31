@@ -32,9 +32,28 @@
 * **Q:** Can we tweak the command format?<br>
 **A:** No, as this would be considered changing the design of a feature.
 
-* **Q:** Testers have reported missing feature (or suggested feature tweaks). Can we add/tweak those features?<br>
+* **Q:** Testers have reported missing features or feature flaws (or suggested feature tweaks). Can we add/tweak those features?<br>
 **A:** No, as that goes against the spirit of having a feature freeze. Most teams receive such suggestions from testers as we allow feature suggestions in PE-D (but they are not allowed in the PE). You can use those suggestions when you envision future versions of the product (i.e., beyond {{ version_final }} -- to improve your product design skills. But for now, focus on fixing bugs, and perfecting other aspects such as testing, documentation, code quality.<br>
 Also note that given there's a feature freeze in {{ version_final }}, some lower-priority features can be argued as out-of-scope if there were other higher priority features that took up the available time in previous versions. Every team has to draw the line _somewhere_ as there wasn't a lot of time to implement features.
+</box>
+</div>
+<div id="alert-time-sensitive">
+<div class="indented">
+<box type="important" icon=":fas-hourglass-half:" seamless>
+
+<span class="text-danger">**This task is time-sensitive.**</span> If done later than the [deadline](weeklySchedule.html#:~:text=for%20exact%20dates.-,Deadline%20for%20weekly%20tasks,-The%20soft%20deadline), it will not be counted as 'done' (i.e., no grace period). %%Reason: This is 'an early draft'; if done late, it is the 'final version' already.%%
+</box>
+</div>
+</div>
+<div id="common-mistakes">
+<box type="tip" seamless>
+
+**Lookout for these mistakes** which were the most common in previous runs of the module:{.text-success}
+
+1. Not following the [required phrasing style for the first sentence](https://se-education.org/guides/conventions/java/{{ "basic" if cs2113 else "intermediate" }}.html#:~:text=In%20method%20header%20comments%2C%20the%20first%20sentence%20should) of Java method header comments.
+1. Not following the [convention for Git commit message subject](https://se-education.org/guides/conventions/git.html#:~:text=Commit%20message%3A%20Subject).<br>
+  Caution: This is <span class="text-danger">near-impossible to rectify later</span>, after PR containing the commits have been merged.<br>
+  %%Reason: While Git allows editing past commits, it changes their timestamp, which affects your weekly code contribution stats (which are factored into evaluating the consistency of your coding work over the project duration)%%
 </box>
 </div>
 {#====================================================================================================================
@@ -60,6 +79,10 @@ Also note that given there's a feature freeze in {{ version_final }}, some lower
 
 {{ icon_important_big_red }} **Milestone requirements are cumulative**. The recommended progress for the mid-milestone is an implicit requirement for the actual milestone unless a milestone requirement overrides a mid-milestone requirement %%e.g., mid-milestone requires a document to be in a temp format while the actual milestone requires it to be in the proper format%%. Similarly, a requirement for milestone `n` is also an implicit requirement for milestone `n+1` unless `n+1` overrides the `n` requirement. This means ==if you miss some requirement at milestone `n`, you should try to achieve it before milestone `n+1`== or else it could be noted again as a 'missed requirement' at milestone `n+1`.
 </span>
+<span id="prReviewsMatter">
+
+{{ icon_important_big_red }} **PR review comments matter!** Remember to do proper PR reviews throughout the tP, at least for non-trivial changes, as the quality and quantity of PR review comments you have given to peers affect your [tP marks](tp-grading.html) (under the _project management_ aspect).
+</span>
 </box>
 </div>
 {#====================================================================================================================#}
@@ -67,12 +90,29 @@ Also note that given there's a feature freeze in {{ version_final }}, some lower
 
 <box>
 
-**Reminder:**
+**Reminders:**
 
 <include src="tp-tasks.mbdf#milestoneCumulative" />
+
+<include src="tp-tasks.mbdf#prReviewsMatter" />
+
 </box>
 
 {{ embed_topic("tp-supervision.md#making-project-decisions", "Admin " + icon_embedding + " tP → Supervision (Extract) → **Tutor's role in making project decisions**", "3", indent="1") }}
+
+</div>
+{#====================================================================================================================#}
+<div id="cs2103-week9-intro">
+
+<box>
+
+##### How to define version numbers?{.text-info}
+
+While there are no strict rules on choosing version numbers for a product, **[SemVer](https://semver.org/) is a versioning number style that is well-defined and widely used**. Our tP version numbers (`{{ version_first }}`, `{{ version_penultimate }}`, `{{ version_final }}` etc.) do not follow SemVer strictly though.
+
+While on the topic of version numbers, **_milestones_ and _versions_ are not the same thing**. For example, you can have a version release in the middle of a milestone and you can define a milestone that does not release a new version of the product. For convenience, the tP uses them interchangeably (e.g., `{{ version_first }}` is used to mean a version as well as a milestone) because its major milestones coincide with its version releases.
+
+</box>
 
 </div>
 
@@ -123,6 +163,18 @@ If you surpass the above bars (in your own estimation), you should be in a good 
 
 
 </box>
+</div>
+{#====================================================================================================================#}
+<div id="cs2113-week9-intro">
+
+<box>
+
+<include src="tp-tasks.mbdf#prReviewsMatter" />
+</box>
+</div>
+{#====================================================================================================================#}
+<div id="cs2113-week8-intro">
+<include src="tp-tasks.mbdf#common-mistakes" />
 </div>
 {#====================================================================================================================#}
 <div id="cs2113-week10-intro">
@@ -406,6 +458,8 @@ Suggested workflow:
 
 </box>
 
+<include src="tp-tasks.mbdf#common-mistakes" />
+
 Update the following pages in your project repo:
 </div>
 
@@ -453,6 +507,23 @@ Update the following pages in your project repo:
 <modal large header="About Dividing Documentation Work" id="modal:v11-divideDocs">
   <include src="tp-tasks.mbdf#divideDocs"/>
 </modal>
+</div>
+{#====================================================================================================================#}
+<span id="heading_add_skeletal_ppp">{{ icon_individual }} Add a skeletal PPP</span>
+<div id="desc_add_skeletal_ppp">
+
+<box type="info" seamless>
+
+At the end of the project, each member needs to create a Project Portfolio Page (PPP) to describe your contribution to the project. Let's create a skeletal version of the PPP now itself so that everyone becomes aware how detailed you need to be abut your individual contributions at the end of the project.
+</box>
+
+* **Create a skeletal version of your _Project Portfolio Page (PPP)_**.
+  * Just the headings are enough. You can write `to be added soon` as placeholders for content.
+  * PDF conversion not required.
+  * Follow the details in the panel below.
+
+{{ embed_topic("tp-deliverables.md#tp-deliverables-ppp", "Admin " + icon_embedding + " tP → Deliverables → Project Portfolio Page", "2", indent="2") }}
+
 </div>
 {#====================================================================================================================#}
 <span id="heading_update_dg_user_stories_etc">{{ icon_team }} Update the DG: user stories, glossary, NFRs{% if not tic4001 %}, use cases{% endif %}</span>
@@ -616,7 +687,7 @@ Update the following pages in your project repo:
 
 <div class="indented">
 
-{{ icon_tip }} **Try to achieve all milestone requirements, but do not fret if you miss a few**.  You will get full marks as long as you achieve about 60% of the milestone requirements on average. Yes, that's a pretty low bar, but we have set it low in order to reduce workload and stress. Ideally, you should achieve close to 80-90%.
+{{ icon_tip }} **Try to achieve all milestone requirements, but do not fret if you miss a few**.  You will get full marks for this aspect as long as you achieve about 75% of the milestone requirements on average. Yes, that's a pretty low bar, but we have set it low in order to reduce workload and stress. Ideally, you should achieve 90-100%.
 </div>
 </div>
 {#====================================================================================================================#}
@@ -633,12 +704,15 @@ Update the following pages in your project repo:
 <span id="heading_add_first_functionality_increment">{{ icon_individual }} Add the first functionality increment</span>
 <div id="desc_add_first_functionality_increment">
 
-* Add functionality in small steps, aiming to deliver the first working version of your product by the mid-milestone (i.e., in one week), and {{ version_first }} at the end of this iteration (i.e., in two weeks).<br>
+* **Add functionality in small steps**, aiming to deliver the first working version of your product by the mid-milestone (i.e., in one week), and `{{ version_first }}` at the end of this iteration (i.e., in two weeks).<br>
   As mentioned in the last week, if you split the iteration into two smaller increments of one-week each (recommended), name the first one `{{ version_first }}` and the second one `{{ version_first }}b`.
 
-* {{ icon_important_big_red }} **From this point onwards each member is expected to contribute <tooltip content="the amount of code does not matter; even small contributions are acceptable">some</tooltip> code to each <tooltip content="{{ version_penultimate }}, {{ version_final }}"> milestone</tooltip>, preferably each week; only merged code is considered as contributions** %%<popover content="The ability to deliver code incrementally is an important learning outcome of this module because incremental delivery, among other things, improves the _visibility_ of your work.">(Reason)</popover>%%.
+* **{{ icon_important_big_red }} Push as hard as you can afford to** in this iteration: While we have kept the expectations bar low for this iteration (so as not to overwhelm inexperienced programmers), you are encouraged to push as hard as you can in this iteration. Reason: past students have lamented not doing enough in `{{ version_first }}` that left 'too much' to do in `{{ version_penultimate }}` and `{{ version_final }}`.<br>
+That said, you should also play it safe by aiming to reach a _smallest possible_ version in `{{ version_first }}` before squeezing in more implementation work into `{{ version_first }}b`.
 
-* ==**If you plan to rename the code packages**==, you may want to do it around this time. Doing it later can be more difficult %%(e.g., it can cause more merge conflicts)%%, and can cause problems in our code authorship tracking. Also note that renaming packages is optional.
+* {{ icon_important_big_red }} **From this point onwards each member is expected to contribute <tooltip content="the amount of code does not matter; even small contributions are acceptable">some</tooltip> code to each <tooltip content="{{ version_penultimate }}, {{ version_final }}"> milestone</tooltip>, preferably each week; only merged code is considered as contributions** %%<popover content="The ability to deliver code incrementally is an important learning outcome of this module because incremental delivery, among other things, improves the _visibility_ of your work.">(reason)</popover>%%.
+
+* ==**If you plan to rename the Java packages**==, you may want to do it around this time. Doing it later can be more difficult %%(e.g., it can cause more merge conflicts)%%, and can cause problems in our code authorship tracking. Also note that renaming packages is optional.
 
 * **Note: you are required to follow the forking workflow** for at least for the first part of this iteration:
 {{ embed_topic("appendixE-gitHub.md#workflow-before-v11", "Admin " + icon_embedding + " Appendix E(extract): **Workflow**", "3", indent="2") }}
@@ -721,13 +795,13 @@ Update the following pages in your project repo:
 <div id="desc_start_on_the_penultimate_version">
 <div class="indented">
 
-<box type="important" tags="m--cs2113 m--cs2103 m--tic4002" seamless>
+<box type="important" tags="m--cs2103 m--tic4002" seamless>
 
-{% if cs2113 or tic4002 %}==**This iteration is your last chance to add/change features.** You are strongly discouraged from adding new features in the following iteration (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is best reserved for bug fixing and documentation work only.{% else %}==**This iteration is your last chance to add features** as a <span class="text-danger">feature-freeze will be enforced in the next iteration</span> (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is reserved for bug fixing and documentation work only. Any non-compliance with that restriction will be penalized.{% endif %}
+{% if cs2113 or tic4002 %}==**This iteration is your last chance to add/change features.** You are strongly discouraged from adding new features in the following iteration (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is best reserved for bug fixing and documentation work only.{% else %}==**This iteration is your last chance to add features** as a <span class="text-danger">feature-freeze will be enforced in the next iteration</span> (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is reserved for bug fixing and documentation work only. Any non-compliance with that restriction will be penalized. In other words, **in terms of product design, treat this iteration as creating the final version of the product**.{% endif %}
 
 The version you deliver in this iteration (i.e., {{ version_penultimate }}) will be subjected a peer testing (aka [PE Dry Run](tp-pe.html#tp-practical-exam-dry-run-pe-d)) and you will be informed of the bugs they find (no penalty for those bugs).{% if cs2103 %} The same peer testers will be asked to check if you have changed features during the {{ version_final }} later.{% endif %}
 
-Given that you'll have to make important feature decisions in this iteration, it may be useful to know what kind of _feature flaws_ that can cost you marks (you will not be allowed to fix feature flaws while a feature-freeze is enforced). The panel below contains some excerpts from the guidelines your peers will use to determine feature flaws of your product after the final submission.
+Given that you'll have to make important feature decisions in this iteration, it may be useful to know what kind of _feature flaws_ that can cost you marks (<span class="text-danger">you will not be allowed to fix feature flaws while a feature-freeze is in force</span>). The panel below contains some excerpts from the guidelines your peers will use to determine feature flaws of your product after the final submission.
 
 <panel header="Admin {{ icon_embedding }} tP → **Grading → Product Design** (excerpt) → Feature Flaws" minimized>
 <include src="tp-grading-bugs.mbdf#featureFlaws" />
@@ -795,10 +869,11 @@ While we are on the topic, also note that the architecture of AB3 doesn't suite 
 {#====================================================================================================================#}
 <span id="heading_update_dg_with_design_details">{{ icon_individual }} Update the DG with design details</span>
 <div id="desc_update_dg_with_design_details">
+<include src="tp-tasks.mbdf#alert-time-sensitive" />
 
 <div class="indented-level2" tags="m--cs2103 m--tic4002">
 
-<panel type="info" header="Why the hurry to update documents? Why not wait till the implementation is finalized?" minimized>
+<panel type="info" header="{{ icon_Q }} Why not wait till the end to write documentation?" minimized>
 
 Here are some reasons:
 * We want you to take at least two passes at documenting the project so that you can learn how to evolve the documentation along with the code %%(which requires additional considerations, when compared to documenting the project only once)%%.
@@ -835,6 +910,7 @@ Here are some reasons:
 {#====================================================================================================================#}
 <span id="heading_do_a_release">{{ icon_team }} Do a trial JAR release</span>
 <div id="desc_do_a_release">
+<include src="tp-tasks.mbdf#alert-time-sensitive" />
 
 * {{ icon_important_big_red }} **Do a <tooltip content="resulting in a jar file on GitHub that can be downloaded by potential users">product release</tooltip>** [as described in the Developer Guide]({{ url_ab3_fork_website }}/DevOps.html#making-a-release). You can name it something like `{{ version_first }}.1` (or `{{ version_penultimate }}.trial`). ==Ensure that the jar file works as expected in an empty folder and using Java 11==, by doing some manual testing. %%Reason: You are _required_ to do a proper product release for {{ version_penultimate }}. Doing a trial at this point will help you iron out any problems in advance. It may take additional effort to get the jar working especially if you use third party libraries or additional assets such as images.%%
 </div>
@@ -902,6 +978,7 @@ This week, we would like you to smoke-test the CATcher app **to ensure it can wo
 {#====================================================================================================================#}
 <span id="heading_update_user_docs">{{ icon_individual }} Update user docs</span>
 <div id="desc_update_user_docs">
+<include src="tp-tasks.mbdf#alert-time-sensitive" />
 
 * {{ icon_important_big_red }} Update the {{ version_penultimate }} user guide to match the current version of the product. %%Reason: testers will need to refer to the UG during the practical exam dry run%%.
   * Clearly indicate which features are not implemented yet %%e.g. tag those features with a `Coming soon`%%.
@@ -1009,6 +1086,7 @@ Your GitHub  | First choice | Second choice | Third choice
 -------------|--------------|---------------|-------------
 {% for allocation in tp_dg_review_allocation  %}`{{ allocation[0] }}` | {{ get_links(allocation[1]) }} | {{ get_links(allocation[2]) }} | {{ get_links(allocation[3]) }}
 {% endfor %}
+{% if not tp_dg_review_allocation | length %}Allocation not available yet... {% endif %}
 </panel>
 </div>
 
@@ -1097,9 +1175,10 @@ As before, you may split this milestone into smaller iterations if you wish e.g.
 {% if cs2103 %}**On the tutorial day, ==one member should post a message in your team's MS-Teams channel==** %%(i.e., the one inside the MS-Teams used for tutorials)%% stating if PE-D bug triaging is done, how many bugs were selected as 'must fix' and 'good to fix' in {{ version_final }} and how many of them have been done already. Remember to ==tag the tutor== in that post. Note that this post will be counted as a team progress deliverable e.g.,
 
 >Our team's mid-{{ version_final }} progress:
->* PE-D bug triaging progress: 100%
->* Must fix: 6 bugs (fixed: 5)
->* Good to fix: 8 bugs (fixed: 1)
+>* PE-D issues received: 47
+>* Unique bugs: 14
+>   * Must fix: 6 bugs (fixed: 5)
+>   * Good to fix: 8 bugs (fixed: 1)
 {% endif %}
 </box>
 </div>
@@ -1124,9 +1203,10 @@ As before, you may split this milestone into smaller iterations if you wish e.g.
 {#====================================================================================================================#}
 <span id="heading_draft_the_ppp">{{ icon_individual }} Draft the PPP</span>
 <div id="desc_draft_the_ppp">
+<include src="tp-tasks.mbdf#alert-time-sensitive" />
 
-* **Create the first version of your _Project Portfolio Page (PPP)_**.<br>
-  Reason: ==Each member needs to create a PPP== to describe your contribution to the project.
+* {% if cs2103 %}**Fill up the skeletal _Project Portfolio Page (PPP)** you created earlier with a draft version of content.{% else %}**Create the first version of your _Project Portfolio Page (PPP)_**.<br>
+  Reason: ==Each member needs to create a PPP== to describe your contribution to the project.{% endif %}
 
 {{ embed_topic("tp-deliverables.md#tp-deliverables-ppp", "Admin " + icon_embedding + " tP → Deliverables → Project Portfolio Page", "2", indent="2") }}
 

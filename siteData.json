@@ -140,7 +140,6 @@
       "src": "admin/ip-showcase.md",
       "title": "iP Showcase",
       "headings": {
-        "tic4002-f18": "TIC4002-F18",
         "ip-showcase": "iP Showcase"
       },
       "headingKeywords": {}
@@ -304,7 +303,6 @@
       "src": "admin/teamList.md",
       "title": "tP Teams List",
       "headings": {
-        "tic4002-f18": "TIC4002-F18",
         "tp-teams": "tP Teams"
       },
       "headingKeywords": {}
@@ -537,9 +535,9 @@
       "title": "Admin: tP week 13: v1.4",
       "headings": {
         "tp-week-13-v1-4": "tP week 13: v1.4 ",
-        "1-submit-deliverables-mon-apr-12th-2359": "1  Submit deliverables  Mon, Apr 12th 2359",
-        "2-wrap-up-the-milestone-wed-apr-14th-2359": "2  Wrap up the milestone  Wed, Apr 14th 2359",
-        "3-submit-the-demo-video-wed-apr-14th-2359": "3  Submit the demo video  Wed, Apr 14th 2359",
+        "1-submit-deliverables-mon-apr-11th-2359": "1  Submit deliverables  Mon, Apr 11th 2359",
+        "2-wrap-up-the-milestone-wed-apr-13th-2359": "2  Wrap up the milestone  Wed, Apr 13th 2359",
+        "3-submit-the-demo-video-wed-apr-13th-2359": "3  Submit the demo video  Wed, Apr 13th 2359",
         "4-prepare-for-the-practical-exam": "4  Prepare for the practical exam",
         "5-attend-the-practical-exam-during-lecture-on-fri-apr-15th-2359": "5  Attend the practical exam  during lecture on Fri, Apr 15th 2359"
       },
@@ -808,7 +806,7 @@
         "compiling-programs": "Compiling Programs",
         "running-programs": "Running Programs",
         "exercise-run-helloworld": " [Exercise] Run HelloWorld",
-        "key-exercise-byeworld": " [Key Exercise] ByeWorld",
+        "exercise-byeworld": "[Exercise] ByeWorld",
         "primitive-data-types": "Primitive Data Types",
         "variables": "Variables",
         "operators": "Operators",

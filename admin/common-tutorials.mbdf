@@ -60,6 +60,7 @@
 Tutorial | Reviewer | First PR to review | Backup PR to review
 ---------|----------|--------------------|---------------------{% for line in ip_pr_review_allocation  %}
 {{ line[0] }} | {{ line[1] }} | {{ get_pr_link(line[2]) }} | {{ get_pr_link(line[3]) }}{% endfor %}
+{% if not ip_pr_review_allocation | length %}Allocation not available yet... {% endif %}
 </panel>
 <p/>
 
@@ -69,7 +70,7 @@ Tutorial | Reviewer | First PR to review | Backup PR to review
 </div>
 <div tags="m--cs2113 m--cs2103">
 
-{{ icon_info }} If the student you have been allocated to review has not created a PR (or the PR has a trivial amount of code), you can review the _Backup PR to review_ provided in the allocation table. Failing both, review another PR allocated to another student in your own tutorial ++but not in your team++.
+{{ icon_info }} If the student you have been allocated to review has not created a PR (or the PR has a trivial amount of code), you can review the _Backup PR to review_ provided in the allocation table. Failing both, review another PR allocated to another student in your own tutorial !!but not in your team!!.
 <p/>
 
 <box type="tip" light>
@@ -90,6 +91,7 @@ Alternatively, you can use PR labels (if any) to filter PRs/Issues.<br>
 Tutorial | Reviewer | Second PR to review | Backup PR to review
 ---------|----------|---------------------|---------------------{% for line in ip_pr_review_allocation  %}
 {{ line[0] }} | {{ line[1] }} | {{ get_pr_link(line[4]) }} | {{ get_pr_link(line[5]) }}{% endfor %}
+{% if not ip_pr_review_allocation | length %}Allocation not available yet... {% endif %}
 </panel>
 <p/>
 
