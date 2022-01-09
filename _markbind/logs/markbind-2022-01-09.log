@@ -1,0 +1,45 @@
+2022-01-09T15:45:07.439Z - info: Website generation (lazy) started at 11:45:02 pm
+2022-01-09T15:45:12.987Z - info: Building assets...
+2022-01-09T15:45:18.577Z - info: Assets built
+2022-01-09T15:45:18.577Z - info: Generating landing page...
+2022-01-09T15:45:19.266Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-09T15:45:20.224Z - info: Site data built
+2022-01-09T15:45:20.224Z - info: Website generation (lazy) complete! Total build time: 17.908s
+2022-01-09T15:45:21.069Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-09T15:45:21.070Z - info: Press CTRL+C to stop ...
+2022-01-09T15:45:51.224Z - info: Website generation started at 11:45:49 pm
+2022-01-09T15:45:56.852Z - info: Building assets...
+2022-01-09T15:46:01.780Z - info: Assets built
+2022-01-09T15:46:01.781Z - info: Generating pages...
+2022-01-09T15:46:13.838Z - debug:  
+2022-01-09T15:46:13.869Z - debug:  
+2022-01-09T15:46:13.870Z - debug:  
+2022-01-09T15:46:13.870Z - debug:  
+2022-01-09T15:46:13.870Z - debug:  
+2022-01-09T15:46:13.870Z - debug:  
+2022-01-09T15:48:04.061Z - debug:  
+2022-01-09T15:48:16.700Z - debug:  
+2022-01-09T15:48:16.751Z - debug:  
+2022-01-09T15:48:21.441Z - info: Pages built
+2022-01-09T15:48:22.310Z - info: Site data built
+2022-01-09T15:48:22.310Z - info: Website generation complete! Total build time: 153.029s
+2022-01-09T15:48:23.146Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-09T15:48:23.146Z - info: Press CTRL+C to stop ...
+2022-01-09T15:54:11.447Z - info: Website generation started at 11:54:06 pm
+2022-01-09T15:54:17.333Z - info: Building assets...
+2022-01-09T15:54:22.285Z - info: Assets built
+2022-01-09T15:54:22.286Z - info: Generating pages...
+2022-01-09T15:54:30.944Z - debug:  
+2022-01-09T15:54:30.963Z - debug:  
+2022-01-09T15:54:30.970Z - debug:  
+2022-01-09T15:54:32.778Z - debug:  
+2022-01-09T15:54:32.778Z - debug:  
+2022-01-09T15:54:32.778Z - debug:  
+2022-01-09T15:56:23.941Z - debug:  
+2022-01-09T15:56:38.574Z - debug:  
+2022-01-09T15:56:38.578Z - debug:  
+2022-01-09T15:56:43.422Z - info: Pages built
+2022-01-09T15:56:44.327Z - info: Site data built
+2022-01-09T15:56:44.327Z - info: Website generation complete! Total build time: 157.833s
+2022-01-09T15:56:44.327Z - info: Build success!
+2022-01-09T15:56:57.587Z - info: Deployed at https://nus-cs2103-ay2122s2.github.io/website!

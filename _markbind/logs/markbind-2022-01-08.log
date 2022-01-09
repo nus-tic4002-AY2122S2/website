@@ -1,0 +1,62 @@
+2022-01-08T02:18:30.825Z - info: Website generation (lazy) started at 10:18:26 am
+2022-01-08T02:18:36.521Z - info: Building assets...
+2022-01-08T02:18:41.409Z - info: Assets built
+2022-01-08T02:18:41.409Z - info: Generating landing page...
+2022-01-08T02:18:42.154Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-08T02:18:42.987Z - info: Site data built
+2022-01-08T02:18:42.987Z - info: Website generation (lazy) complete! Total build time: 16.895s
+2022-01-08T02:18:43.838Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-08T02:18:43.839Z - info: Press CTRL+C to stop ...
+2022-01-08T02:19:09.029Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2022-01-08T02:19:09.631Z - info: Site data built
+2022-01-08T02:19:09.631Z - info: Lazy website regeneration complete! Total build time: 0.604s
+2022-01-08T02:20:00.053Z - info: [10:20:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2022-01-08T02:20:00.053Z - info: Synchronizing opened pages list before reload
+2022-01-08T02:20:00.053Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T02:20:00.053Z - info: 1. admin/tutorials
+2022-01-08T02:20:01.056Z - info: Rebuilding 1 pages
+2022-01-08T02:20:01.305Z - info: Site data built
+2022-01-08T02:20:01.306Z - info: Pages rebuilt
+2022-01-08T02:20:01.306Z - info: Website regeneration complete! Total build time: 0.251s
+2022-01-08T02:20:52.531Z - info: [10:20:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2022-01-08T02:20:52.532Z - info: Synchronizing opened pages list before reload
+2022-01-08T02:20:52.532Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T02:20:52.532Z - info: 1. admin/tutorials
+2022-01-08T02:20:53.552Z - info: Rebuilding 1 pages
+2022-01-08T02:20:53.920Z - info: Site data built
+2022-01-08T02:20:53.920Z - info: Pages rebuilt
+2022-01-08T02:20:53.920Z - info: Website regeneration complete! Total build time: 0.37s
+2022-01-08T02:21:16.905Z - info: [10:21:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2022-01-08T02:21:16.905Z - info: Synchronizing opened pages list before reload
+2022-01-08T02:21:16.906Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T02:21:16.906Z - info: 1. admin/tutorials
+2022-01-08T02:21:17.923Z - info: Rebuilding 1 pages
+2022-01-08T02:21:18.164Z - info: Site data built
+2022-01-08T02:21:18.164Z - info: Pages rebuilt
+2022-01-08T02:21:18.165Z - info: Website regeneration complete! Total build time: 0.243s
+2022-01-08T02:21:23.570Z - info: [10:21:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2022-01-08T02:21:23.570Z - info: Synchronizing opened pages list before reload
+2022-01-08T02:21:23.570Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T02:21:23.570Z - info: 1. admin/tutorials
+2022-01-08T02:21:24.575Z - info: Rebuilding 1 pages
+2022-01-08T02:21:24.867Z - info: Site data built
+2022-01-08T02:21:24.868Z - info: Pages rebuilt
+2022-01-08T02:21:24.868Z - info: Website regeneration complete! Total build time: 0.293s
+2022-01-08T02:29:18.443Z - info: Website generation started at 10:29:16 am
+2022-01-08T02:29:24.126Z - info: Building assets...
+2022-01-08T02:29:28.414Z - info: Assets built
+2022-01-08T02:29:28.414Z - info: Generating pages...
+2022-01-08T02:29:37.122Z - debug:  
+2022-01-08T02:29:37.123Z - debug:  
+2022-01-08T02:29:37.124Z - debug:  
+2022-01-08T02:29:37.124Z - debug:  
+2022-01-08T02:29:37.124Z - debug:  
+2022-01-08T02:29:37.124Z - debug:  
+2022-01-08T02:31:23.446Z - debug:  
+2022-01-08T02:31:35.019Z - debug:  
+2022-01-08T02:31:35.189Z - debug:  
+2022-01-08T02:31:39.669Z - info: Pages built
+2022-01-08T02:31:40.425Z - info: Site data built
+2022-01-08T02:31:40.425Z - info: Website generation complete! Total build time: 143.89s
+2022-01-08T02:31:40.425Z - info: Build success!
+2022-01-08T02:31:51.965Z - info: Deployed at https://nus-cs2103-ay2122s2.github.io/website!
