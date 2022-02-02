@@ -55,7 +55,7 @@
   "intrasiteLinkValidation": {
     "enabled": false
   },
-  "enableSearch": true,
+  "enableSearch": false,
   "headingIndexingLevel": 5,
   "plugins": ["filterTags", "algolia", "googleAnalytics"],
   "pluginsContext": {
@@ -63,10 +63,13 @@
       "tags": ["m--tic4002"]
     },
     "algolia": {
-      "apiKey": "38f19784bc7ad41eb2e3934172fbee04",
-      "indexName": "nus-tic4002-ay2021s2",
-      "algoliaOptions": { "hitsPerPage": 10 },
-      "facetFilters": [["tags:admin", "tags:se-book-adapted", "tags:schedule"]],
+      "apiKey": "a3fef7e2d9dea07c0fa2d8ed521057aa",
+      "appId": "3DU4XTBX4T",
+      "indexName": "nus-tic-cs",
+      "algoliaOptions": {
+        "hitsPerPage": 10,
+        "facetFilters": [["site:nus-tic4002-ay2122s2.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
+      },
       "debug": false
     },
     "googleAnalytics": {
