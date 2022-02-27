@@ -38,6 +38,6 @@ with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-
 with(this){return _c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Polish the deliverables")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Fri, 18 Feb 2022, 20:22:49 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Sun, 27 Feb 2022, 13:38:44 GMT+8]")])])])}
 }];
   

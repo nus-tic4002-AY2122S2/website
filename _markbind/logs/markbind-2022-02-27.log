@@ -1,0 +1,40 @@
+2022-02-26T16:21:21.193Z - info: [12:21:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TEE3201\mid-semester-survey-results.md
+2022-02-26T16:21:21.200Z - info: Synchronizing opened pages list before reload
+2022-02-26T16:21:21.200Z - info: Current opened pages, from most-to-least recent:
+2022-02-26T16:21:21.200Z - info: 1. programming/chapters/monty
+2022-02-26T16:21:21.201Z - info: 2. admin/mid-semester-survey-results
+2022-02-26T16:21:22.208Z - info: Rebuilding 1 pages
+2022-02-26T16:21:22.404Z - info: Site data built
+2022-02-26T16:21:22.405Z - info: Pages rebuilt
+2022-02-26T16:21:22.405Z - info: Website regeneration complete! Total build time: 0.199s
+2022-02-26T16:28:05.277Z - info: [12:28:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TEE3201\mid-semester-survey-results.md
+2022-02-26T16:28:05.277Z - info: Synchronizing opened pages list before reload
+2022-02-26T16:28:05.277Z - info: Current opened pages, from most-to-least recent:
+2022-02-26T16:28:05.277Z - info: 1. programming/chapters/monty
+2022-02-26T16:28:05.278Z - info: 2. admin/mid-semester-survey-results
+2022-02-26T16:28:06.286Z - info: Rebuilding 1 pages
+2022-02-26T16:28:06.424Z - info: Site data built
+2022-02-26T16:28:06.424Z - info: Pages rebuilt
+2022-02-26T16:28:06.424Z - info: Website regeneration complete! Total build time: 0.14s
+2022-02-27T05:08:50.047Z - info: Website generation (lazy) started at 1:08:48 pm
+2022-02-27T05:08:54.963Z - info: Building assets...
+2022-02-27T05:08:59.767Z - info: Assets built
+2022-02-27T05:08:59.767Z - info: Generating landing page...
+2022-02-27T05:09:00.778Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-02-27T05:09:01.705Z - info: Site data built
+2022-02-27T05:09:01.705Z - info: Website generation (lazy) complete! Total build time: 13.538s
+2022-02-27T05:09:02.466Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-02-27T05:09:02.466Z - info: Press CTRL+C to stop ...
+2022-02-27T05:09:17.412Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2022-02-27T05:09:17.795Z - info: Site data built
+2022-02-27T05:09:17.795Z - info: Lazy website regeneration complete! Total build time: 0.383s
+2022-02-27T05:10:32.329Z - info: [1:10:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\teamList.md
+2022-02-27T05:10:32.330Z - info: Synchronizing opened pages list before reload
+2022-02-27T05:10:32.330Z - info: Current opened pages, from most-to-least recent:
+2022-02-27T05:10:32.330Z - info: 1. admin/teamList
+2022-02-27T05:10:33.337Z - info: Rebuilding 1 pages
+2022-02-27T05:10:33.635Z - info: Site data built
+2022-02-27T05:10:33.635Z - info: Pages rebuilt
+2022-02-27T05:10:33.635Z - info: Website regeneration complete! Total build time: 0.301s
+2022-02-27T05:38:35.072Z - info: Website generation started at 1:38:33 pm
+2022-02-27T05:38:40.326Z - info: Building assets...
