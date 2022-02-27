@@ -71,6 +71,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Consider increasing test co
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("After you have sufficient code coverage, fix remaining code quality problems")]),_v(" and bring up the quality to your target level."),_c('br'),_v("\nRefactoring code does not violate a feature freeze (as refactoring doesn't change the behavior). Still, it is not advisable to (but you are allowed to) do "),_c('em',[_v("major")]),_v(" refactorings this close to a major release.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Sun, 27 Feb 2022, 13:38:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Sun, 27 Feb 2022, 13:54:09 GMT+8]")])])])}
 }];
   
