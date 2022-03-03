@@ -1,0 +1,41 @@
+2022-03-03T13:30:03.494Z - info: Website generation (lazy) started at 9:29:57 pm
+2022-03-03T13:30:08.858Z - info: Building assets...
+2022-03-03T13:30:13.930Z - info: Assets built
+2022-03-03T13:30:13.931Z - info: Generating landing page...
+2022-03-03T13:30:15.163Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-03T13:30:16.266Z - info: Site data built
+2022-03-03T13:30:16.266Z - info: Website generation (lazy) complete! Total build time: 18.52s
+2022-03-03T13:30:17.026Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-03T13:30:17.027Z - info: Press CTRL+C to stop ...
+2022-03-03T13:30:42.819Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week13\index as some of its dependencies were changed since the last visit
+2022-03-03T13:30:43.624Z - info: Site data built
+2022-03-03T13:30:43.624Z - info: Lazy website regeneration complete! Total build time: 0.806s
+2022-03-03T13:31:27.511Z - info: [9:31:27 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4002\weeklyTpTasks.mbdf
+2022-03-03T13:31:27.511Z - info: Synchronizing opened pages list before reload
+2022-03-03T13:31:27.511Z - info: Current opened pages, from most-to-least recent:
+2022-03-03T13:31:27.512Z - info: 1. schedule/week13/index
+2022-03-03T13:31:28.529Z - info: Rebuilding 1 pages
+2022-03-03T13:31:29.271Z - info: Site data built
+2022-03-03T13:31:29.272Z - info: Pages rebuilt
+2022-03-03T13:31:29.272Z - info: Website regeneration complete! Total build time: 0.744s
+2022-03-03T13:31:44.333Z - info: [9:31:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4002\weeklyTpTasks.mbdf
+2022-03-03T13:31:44.333Z - info: Synchronizing opened pages list before reload
+2022-03-03T13:31:44.333Z - info: Current opened pages, from most-to-least recent:
+2022-03-03T13:31:44.333Z - info: 1. schedule/week13/index
+2022-03-03T13:31:45.345Z - info: Rebuilding 1 pages
+2022-03-03T13:31:45.881Z - info: Site data built
+2022-03-03T13:31:45.881Z - info: Pages rebuilt
+2022-03-03T13:31:45.881Z - info: Website regeneration complete! Total build time: 0.537s
+2022-03-03T13:31:55.814Z - info: [9:31:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4002\weeklyTpTasks.mbdf
+2022-03-03T13:31:55.814Z - info: Synchronizing opened pages list before reload
+2022-03-03T13:31:55.814Z - info: Current opened pages, from most-to-least recent:
+2022-03-03T13:31:55.814Z - info: 1. schedule/week13/index
+2022-03-03T13:31:56.828Z - info: Rebuilding 1 pages
+2022-03-03T13:31:57.288Z - info: Site data built
+2022-03-03T13:31:57.288Z - info: Pages rebuilt
+2022-03-03T13:31:57.288Z - info: Website regeneration complete! Total build time: 0.46s
+2022-03-03T13:32:01.938Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week13\project as some of its dependencies were changed since the last visit
+2022-03-03T13:32:03.912Z - info: Site data built
+2022-03-03T13:32:03.912Z - info: Lazy website regeneration complete! Total build time: 1.974s
+2022-03-03T13:35:56.104Z - info: Website generation started at 9:35:53 pm
+2022-03-03T13:36:01.242Z - info: Building assets...
