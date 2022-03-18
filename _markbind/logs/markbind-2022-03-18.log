@@ -1,0 +1,70 @@
+2022-03-18T07:35:42.426Z - info: Website generation (lazy) started at 3:35:38 pm
+2022-03-18T07:35:46.960Z - info: Building assets...
+2022-03-18T07:35:50.988Z - info: Assets built
+2022-03-18T07:35:50.988Z - info: Generating landing page...
+2022-03-18T07:35:52.138Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-18T07:35:52.988Z - info: Site data built
+2022-03-18T07:35:52.988Z - info: Website generation (lazy) complete! Total build time: 14.268s
+2022-03-18T07:35:53.748Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-18T07:35:53.748Z - info: Press CTRL+C to stop ...
+2022-03-18T07:36:10.445Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2022-03-18T07:36:11.349Z - info: Site data built
+2022-03-18T07:36:11.350Z - info: Lazy website regeneration complete! Total build time: 0.905s
+2022-03-18T07:36:15.926Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week10\project as some of its dependencies were changed since the last visit
+2022-03-18T07:36:16.931Z - info: Site data built
+2022-03-18T07:36:16.931Z - info: Lazy website regeneration complete! Total build time: 1.005s
+2022-03-18T07:36:59.583Z - info: [3:36:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-18T07:36:59.583Z - info: Synchronizing opened pages list before reload
+2022-03-18T07:36:59.583Z - info: Current opened pages, from most-to-least recent:
+2022-03-18T07:36:59.584Z - info: 1. schedule/week10/project
+2022-03-18T07:37:00.590Z - info: Rebuilding 1 pages
+2022-03-18T07:37:01.756Z - info: Site data built
+2022-03-18T07:37:01.756Z - info: Pages rebuilt
+2022-03-18T07:37:01.756Z - info: Website regeneration complete! Total build time: 1.167s
+2022-03-18T07:37:59.160Z - info: [3:37:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-03-18T07:37:59.161Z - info: Synchronizing opened pages list before reload
+2022-03-18T07:37:59.162Z - info: Current opened pages, from most-to-least recent:
+2022-03-18T07:37:59.162Z - info: 1. schedule/week10/project
+2022-03-18T07:38:00.188Z - info: Rebuilding 1 pages
+2022-03-18T07:38:01.259Z - info: Site data built
+2022-03-18T07:38:01.260Z - info: Pages rebuilt
+2022-03-18T07:38:01.260Z - info: Website regeneration complete! Total build time: 1.074s
+2022-03-18T07:38:56.920Z - info: Website generation started at 3:38:54 pm
+2022-03-18T07:39:01.612Z - info: Building assets...
+2022-03-18T07:39:05.394Z - info: Assets built
+2022-03-18T07:39:05.395Z - info: Generating pages...
+2022-03-18T07:39:14.967Z - debug:  
+2022-03-18T07:39:14.968Z - debug:  
+2022-03-18T07:39:14.969Z - debug:  
+2022-03-18T07:39:14.969Z - debug:  
+2022-03-18T07:39:14.969Z - debug:  
+2022-03-18T07:39:14.969Z - debug:  
+2022-03-18T07:40:58.451Z - debug:  
+2022-03-18T07:41:11.046Z - debug:  
+2022-03-18T07:41:11.046Z - debug:  
+2022-03-18T07:41:17.343Z - info: Pages built
+2022-03-18T07:41:18.279Z - info: Site data built
+2022-03-18T07:41:18.279Z - info: Website generation complete! Total build time: 143.284s
+2022-03-18T07:41:18.279Z - info: Build success!
+2022-03-18T07:43:15.766Z - error: fatal: unable to access 'https://github.com/nus-cs2103-AY2122S2/website.git/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443 
+
+2022-03-18T07:49:34.774Z - info: Website generation started at 3:49:30 pm
+2022-03-18T07:49:40.953Z - info: Building assets...
+2022-03-18T07:49:47.422Z - info: Assets built
+2022-03-18T07:49:47.424Z - info: Generating pages...
+2022-03-18T07:50:00.562Z - debug:  
+2022-03-18T07:50:00.564Z - debug:  
+2022-03-18T07:50:00.564Z - debug:  
+2022-03-18T07:50:00.564Z - debug:  
+2022-03-18T07:50:00.565Z - debug:  
+2022-03-18T07:50:00.565Z - debug:  
+2022-03-18T07:52:22.516Z - debug:  
+2022-03-18T07:53:07.523Z - debug:  
+2022-03-18T07:53:07.905Z - debug:  
+2022-03-18T07:53:32.060Z - info: Pages built
+2022-03-18T07:53:35.175Z - info: Site data built
+2022-03-18T07:53:35.175Z - info: Website generation complete! Total build time: 245.02s
+2022-03-18T07:53:35.176Z - info: Build success!
+2022-03-18T07:59:58.074Z - info: The website has been deployed at: https://nus-cs2103-ay2122s2.github.io/website
+2022-03-18T12:00:37.457Z - info: Website generation started at 8:00:33 pm
+2022-03-18T12:00:42.118Z - info: Building assets...
