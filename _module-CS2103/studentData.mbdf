@@ -348,7 +348,7 @@
  'CS2103T-W12-2': 'https://docs.google.com/document/d/1bRBvGnpQ_dzA1Eq71C5NiV4KTjLMMvjy5s9nrGRqo7Q/edit?usp=sharing',
  'CS2103T-W12-3': 'https://docs.google.com/document/d/1MWJmlL1UA4BNlP_Ou3LhC32yHcCuKyyWKDrhrmNJBW4/edit?usp=sharing',
  'CS2103T-W12-4': 'https://docs.google.com/document/d/1AlayAtjEboSHDPX56-4PpAeX6krVWEk9PO9TbDTeG2c/edit?usp=sharing',
- 'CS2103T-W13-1': 'https://docs.google.com/document/d/12p1dwhOf6s03j15OOkIr7TIKp3M4A_h314OYYTcos7U/edit?usp=sharing',
+ 'CS2103T-W13-1': 'https://docs.google.com/document/d/141xClv7cfHhWVZ4Wkj1CBd0H6gpFylH0CBX2lHfWoQs/edit?usp=sharing',
  'CS2103T-W13-2': 'https://docs.google.com/document/d/1x4pmvvoE7vAa-iV29jLH9LmoeHSvSJTJjLtipeChGH4',
  'CS2103T-W13-3': 'https://docs.google.com/document/d/1-WYxfrfPSr1gqjRsHPz9LJ1TrjAFBaV-poWY0mZ7mqU/edit?usp=sharing',
  'CS2103T-W13-4': 'https://docs.google.com/document/d/1Pax76W2IuonDKkuTEPlZAmxljk6ngr8_00RfrCKkwPg/edit?usp=sharing',
@@ -543,7 +543,7 @@
  'CS2103T-W14-3': 'This product is specialised in job-seeking opportunities for users who need to manage a large number of companies contacts and interview deadlines. This product will help users to keep track and manage all ongoing internship applications which act both as a contact manager and an event manager in one application.',
  'CS2103T-W15-1': 'Contacts and CVs of job applicants come from many different recruiters and in paper. Recruiters have to sift through 100s of CVs a day to find those for a certain job, and each CV might be missing information which requires admin staff to contact them. Our application helps to organize the contacts by priority, keeps contacts in a centralized workspace, streamlines workflow and increases efficiency of recruiter work.  Scope: Our app will only be used to organize the contacts for recruiter to track.',
  'CS2103T-W15-2': 'Our HustleBook help(s) wealth managers to keep track and be more organised with the clients.',
- 'CS2103T-W15-3': 'TACH helps CS Teaching Assistants teaching multiple classes to manage their students in an organized manner. Our sorting feature will allow TAs to view, categorize and get information of all their students at one glance'
+ 'CS2103T-W15-3': 'TACH helps CS Teaching Assistants teaching multiple tutorial groups to manage their students in an organized manner. Our sorting feature will allow TAs to view, categorize and get information of all their students at one glance'
 }%}
 
 {# format: [team, reviewer, reviewee1, backup1, reviewee2, backup2]
