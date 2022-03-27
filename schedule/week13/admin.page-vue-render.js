@@ -26,6 +26,6 @@ with(this){return _c('span',[_c('span',{staticClass:"fab fa-product-hunt",attrs:
 with(this){return _c('ul',[_c('li',[_v("Submission will open on the day after the final submission (Tue, Apr 12th)."),_c('br'),_c('span',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" If you did not receive the submission link, you can get TEAMMATES to resend the link by going to "),_c('a',{attrs:{"href":"https://teammatesv4.appspot.com/web/front/help/session-links-recovery"}},[_v("TEAMMATES link recovery page")]),_v("\nand entering your NUSNET email address. Remember to check your spam folder as well.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Fri, 25 Mar 2022, 19:03:43 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Sun, 27 Mar 2022, 13:17:55 GMT+8]")])])])}
 }];
   
