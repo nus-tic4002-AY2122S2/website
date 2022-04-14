@@ -11,6 +11,6 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-8-fri-mar-4th-lecture"}},[_c('span',{staticClass:"anchor",attrs:{"id":"week-8-fri-mar-4th-lecture"}}),_v("Week 8 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Fri, Mar 4th]")]),_v(" - Lecture")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-8-fri-mar-4th-lecture","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Fri, 8 Apr 2022, 19:03:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Thu, 14 Apr 2022, 15:33:52 GMT+8]")])])])}
 }];
   

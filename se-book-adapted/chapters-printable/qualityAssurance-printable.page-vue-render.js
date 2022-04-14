@@ -74,6 +74,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Formal verification can be 
 with(this){return _c('ul',[_c('li',[_v("It only proves the compliance with the specification, but not the actual utility of the software.")]),_v(" "),_c('li',[_v("It requires highly specialized notations and knowledge which makes it an expensive technique to administer. Therefore, "),_c('strong',[_v("formal verifications are more commonly used in safety-critical software such as flight control systems")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Fri, 8 Apr 2022, 19:03:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Thu, 14 Apr 2022, 15:33:52 GMT+8]")])])])}
 }];
   

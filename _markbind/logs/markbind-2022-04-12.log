@@ -1,0 +1,433 @@
+2022-04-11T16:37:34.147Z - info: Website generation (lazy) started at 12:37:28 am
+2022-04-11T16:37:40.105Z - info: Building assets...
+2022-04-11T16:37:45.051Z - info: Assets built
+2022-04-11T16:37:45.052Z - info: Generating landing page...
+2022-04-11T16:37:46.137Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-04-11T16:37:47.279Z - info: Site data built
+2022-04-11T16:37:47.280Z - info: Website generation (lazy) complete! Total build time: 19.117s
+2022-04-11T16:37:49.544Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:64709
+2022-04-11T16:37:49.544Z - info: Press CTRL+C to stop ...
+2022-04-11T16:38:21.504Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-04-11T16:38:22.082Z - info: Site data built
+2022-04-11T16:38:22.082Z - info: Lazy website regeneration complete! Total build time: 0.579s
+2022-04-11T16:38:29.905Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w13 as some of its dependencies were changed since the last visit
+2022-04-11T16:38:33.678Z - info: Site data built
+2022-04-11T16:38:33.679Z - info: Lazy website regeneration complete! Total build time: 3.774s
+2022-04-11T16:44:08.481Z - info: [12:44:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-04-11T16:44:08.482Z - info: Synchronizing opened pages list before reload
+2022-04-11T16:44:08.482Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T16:44:08.483Z - info: 1. admin/tp-w13
+2022-04-11T16:44:09.490Z - info: Rebuilding 1 pages
+2022-04-11T16:44:11.800Z - info: Site data built
+2022-04-11T16:44:11.800Z - info: Pages rebuilt
+2022-04-11T16:44:11.800Z - info: Website regeneration complete! Total build time: 2.311s
+2022-04-11T16:44:25.642Z - info: [12:44:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-04-11T16:44:25.642Z - info: Synchronizing opened pages list before reload
+2022-04-11T16:44:25.642Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T16:44:25.642Z - info: 1. admin/tp-w13
+2022-04-11T16:44:26.645Z - info: Rebuilding 1 pages
+2022-04-11T16:44:28.130Z - info: Site data built
+2022-04-11T16:44:28.131Z - info: Pages rebuilt
+2022-04-11T16:44:28.131Z - info: Website regeneration complete! Total build time: 1.487s
+2022-04-11T16:44:46.895Z - info: [12:44:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2022-04-11T16:44:46.896Z - info: Synchronizing opened pages list before reload
+2022-04-11T16:44:46.896Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T16:44:46.897Z - info: 1. admin/tp-w13
+2022-04-11T16:44:47.930Z - info: Rebuilding 1 pages
+2022-04-11T16:44:49.865Z - info: Site data built
+2022-04-11T16:44:49.865Z - info: Pages rebuilt
+2022-04-11T16:44:49.865Z - info: Website regeneration complete! Total build time: 1.937s
+2022-04-11T16:45:26.663Z - info: Website generation (lazy) started at 12:45:24 am
+2022-04-11T16:45:34.132Z - info: Building assets...
+2022-04-11T16:45:40.209Z - info: Assets built
+2022-04-11T16:45:40.210Z - info: Generating landing page...
+2022-04-11T16:45:41.268Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-04-11T16:45:42.473Z - info: Site data built
+2022-04-11T16:45:42.474Z - info: Website generation (lazy) complete! Total build time: 18.204s
+2022-04-11T16:45:45.003Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:65167
+2022-04-11T16:45:45.003Z - info: Press CTRL+C to stop ...
+2022-04-11T16:48:16.652Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-04-11T16:48:18.789Z - info: Site data built
+2022-04-11T16:48:18.790Z - info: Lazy website regeneration complete! Total build time: 2.139s
+2022-04-11T16:56:07.415Z - info: [12:56:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T16:56:07.416Z - info: Synchronizing opened pages list before reload
+2022-04-11T16:56:07.417Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T16:56:07.417Z - info: 1. admin/index
+2022-04-11T16:56:08.436Z - info: Rebuilding 1 pages
+2022-04-11T16:56:09.888Z - info: Site data built
+2022-04-11T16:56:09.888Z - info: Pages rebuilt
+2022-04-11T16:56:09.889Z - info: Website regeneration complete! Total build time: 1.454s
+2022-04-11T16:58:24.873Z - info: [12:58:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T16:58:24.873Z - info: Synchronizing opened pages list before reload
+2022-04-11T16:58:24.873Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T16:58:24.873Z - info: 1. admin/index
+2022-04-11T16:58:25.887Z - info: Rebuilding 1 pages
+2022-04-11T16:58:27.838Z - info: Site data built
+2022-04-11T16:58:27.838Z - info: Pages rebuilt
+2022-04-11T16:58:27.838Z - info: Website regeneration complete! Total build time: 1.952s
+2022-04-11T17:02:12.290Z - info: [1:02:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:02:12.291Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:02:12.292Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:02:12.293Z - info: 1. admin/index
+2022-04-11T17:02:13.298Z - info: Rebuilding 1 pages
+2022-04-11T17:02:14.937Z - info: Site data built
+2022-04-11T17:02:14.937Z - info: Pages rebuilt
+2022-04-11T17:02:14.938Z - info: Website regeneration complete! Total build time: 1.641s
+2022-04-11T17:02:27.068Z - info: [1:02:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:02:27.068Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:02:27.069Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:02:27.069Z - info: 1. admin/index
+2022-04-11T17:02:28.078Z - info: Rebuilding 1 pages
+2022-04-11T17:02:29.459Z - info: Site data built
+2022-04-11T17:02:29.459Z - info: Pages rebuilt
+2022-04-11T17:02:29.460Z - info: Website regeneration complete! Total build time: 1.383s
+2022-04-11T17:03:11.554Z - info: [1:03:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:03:11.555Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:03:11.556Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:03:11.556Z - info: 1. admin/index
+2022-04-11T17:03:12.573Z - info: Rebuilding 1 pages
+2022-04-11T17:03:14.088Z - info: Site data built
+2022-04-11T17:03:14.088Z - info: Pages rebuilt
+2022-04-11T17:03:14.089Z - info: Website regeneration complete! Total build time: 1.516s
+2022-04-11T17:03:52.566Z - info: [1:03:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:03:52.568Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:03:52.568Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:03:52.569Z - info: 1. admin/index
+2022-04-11T17:03:53.583Z - info: Rebuilding 1 pages
+2022-04-11T17:03:55.020Z - info: Site data built
+2022-04-11T17:03:55.021Z - info: Pages rebuilt
+2022-04-11T17:03:55.021Z - info: Website regeneration complete! Total build time: 1.439s
+2022-04-11T17:05:41.133Z - info: [1:05:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:05:41.133Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:05:41.134Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:05:41.134Z - info: 1. admin/index
+2022-04-11T17:05:42.151Z - info: Rebuilding 1 pages
+2022-04-11T17:05:43.592Z - info: Site data built
+2022-04-11T17:05:43.592Z - info: Pages rebuilt
+2022-04-11T17:05:43.592Z - info: Website regeneration complete! Total build time: 1.443s
+2022-04-11T17:11:17.101Z - info: [1:11:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:11:17.102Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:11:17.102Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:11:17.102Z - info: 1. admin/index
+2022-04-11T17:11:18.121Z - info: Rebuilding 1 pages
+2022-04-11T17:11:19.604Z - info: Site data built
+2022-04-11T17:11:19.604Z - info: Pages rebuilt
+2022-04-11T17:11:19.604Z - info: Website regeneration complete! Total build time: 1.485s
+2022-04-11T17:13:11.451Z - info: [1:13:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:13:11.451Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:13:11.452Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:13:11.452Z - info: 1. admin/index
+2022-04-11T17:13:12.462Z - info: Rebuilding 1 pages
+2022-04-11T17:13:13.657Z - info: Site data built
+2022-04-11T17:13:13.657Z - info: Pages rebuilt
+2022-04-11T17:13:13.657Z - info: Website regeneration complete! Total build time: 1.196s
+2022-04-11T17:14:24.063Z - info: [1:14:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:14:24.063Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:14:24.064Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:14:24.064Z - info: 1. admin/index
+2022-04-11T17:14:25.072Z - info: Rebuilding 1 pages
+2022-04-11T17:14:26.216Z - info: Site data built
+2022-04-11T17:14:26.216Z - info: Pages rebuilt
+2022-04-11T17:14:26.216Z - info: Website regeneration complete! Total build time: 1.146s
+2022-04-11T17:16:29.317Z - info: [1:16:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:16:29.318Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:16:29.318Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:16:29.318Z - info: 1. admin/index
+2022-04-11T17:16:30.324Z - info: Rebuilding 1 pages
+2022-04-11T17:16:31.405Z - info: Site data built
+2022-04-11T17:16:31.405Z - info: Pages rebuilt
+2022-04-11T17:16:31.405Z - info: Website regeneration complete! Total build time: 1.082s
+2022-04-11T17:18:55.650Z - info: [1:18:55 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\images\examplify-feedback.png
+2022-04-11T17:18:55.650Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:18:55.651Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:18:55.651Z - info: 1. admin/index
+2022-04-11T17:18:57.574Z - info: [1:18:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\images\examplify-feedback.png
+2022-04-11T17:18:57.574Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:18:57.574Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:18:57.574Z - info: 1. admin/index
+2022-04-11T17:18:58.595Z - info: Assets built
+2022-04-11T17:20:12.292Z - info: [1:20:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:20:12.292Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:20:12.292Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:20:12.293Z - info: 1. admin/index
+2022-04-11T17:20:13.297Z - info: Rebuilding 1 pages
+2022-04-11T17:20:14.531Z - info: Site data built
+2022-04-11T17:20:14.531Z - info: Pages rebuilt
+2022-04-11T17:20:14.531Z - info: Website regeneration complete! Total build time: 1.235s
+2022-04-11T17:21:05.922Z - info: [1:21:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:21:05.923Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:21:05.923Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:21:05.923Z - info: 1. admin/index
+2022-04-11T17:21:06.938Z - info: Rebuilding 1 pages
+2022-04-11T17:21:08.727Z - info: Site data built
+2022-04-11T17:21:08.727Z - info: Pages rebuilt
+2022-04-11T17:21:08.727Z - info: Website regeneration complete! Total build time: 1.79s
+2022-04-11T17:21:48.260Z - info: [1:21:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:21:48.260Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:21:48.261Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:21:48.261Z - info: 1. admin/index
+2022-04-11T17:21:49.279Z - info: Rebuilding 1 pages
+2022-04-11T17:21:50.733Z - info: Site data built
+2022-04-11T17:21:50.733Z - info: Pages rebuilt
+2022-04-11T17:21:50.733Z - info: Website regeneration complete! Total build time: 1.455s
+2022-04-11T17:22:11.002Z - info: [1:22:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:22:11.003Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:22:11.003Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:22:11.003Z - info: 1. admin/index
+2022-04-11T17:22:12.014Z - info: Rebuilding 1 pages
+2022-04-11T17:22:13.564Z - info: Site data built
+2022-04-11T17:22:13.564Z - info: Pages rebuilt
+2022-04-11T17:22:13.564Z - info: Website regeneration complete! Total build time: 1.551s
+2022-04-11T17:22:41.694Z - info: [1:22:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:22:41.695Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:22:41.695Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:22:41.695Z - info: 1. admin/index
+2022-04-11T17:22:42.702Z - info: Rebuilding 1 pages
+2022-04-11T17:22:44.151Z - info: Site data built
+2022-04-11T17:22:44.151Z - info: Pages rebuilt
+2022-04-11T17:22:44.151Z - info: Website regeneration complete! Total build time: 1.45s
+2022-04-11T17:22:52.747Z - info: [1:22:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:22:52.747Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:22:52.747Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:22:52.747Z - info: 1. admin/index
+2022-04-11T17:22:53.758Z - info: Rebuilding 1 pages
+2022-04-11T17:22:54.922Z - info: Site data built
+2022-04-11T17:22:54.922Z - info: Pages rebuilt
+2022-04-11T17:22:54.922Z - info: Website regeneration complete! Total build time: 1.164s
+2022-04-11T17:23:20.032Z - info: [1:23:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:23:20.032Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:23:20.032Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:23:20.033Z - info: 1. admin/index
+2022-04-11T17:23:21.042Z - info: Rebuilding 1 pages
+2022-04-11T17:23:22.513Z - info: Site data built
+2022-04-11T17:23:22.513Z - info: Pages rebuilt
+2022-04-11T17:23:22.514Z - info: Website regeneration complete! Total build time: 1.471s
+2022-04-11T17:23:53.056Z - info: [1:23:53 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:23:53.056Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:23:53.056Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:23:53.056Z - info: 1. admin/index
+2022-04-11T17:23:54.073Z - info: Rebuilding 1 pages
+2022-04-11T17:23:55.535Z - info: Site data built
+2022-04-11T17:23:55.535Z - info: Pages rebuilt
+2022-04-11T17:23:55.535Z - info: Website regeneration complete! Total build time: 1.462s
+2022-04-11T17:26:01.697Z - info: [1:26:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:26:01.697Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:26:01.698Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:26:01.698Z - info: 1. admin/index
+2022-04-11T17:26:02.708Z - info: Rebuilding 1 pages
+2022-04-11T17:26:03.986Z - info: Site data built
+2022-04-11T17:26:03.986Z - info: Pages rebuilt
+2022-04-11T17:26:03.986Z - info: Website regeneration complete! Total build time: 1.279s
+2022-04-11T17:26:15.196Z - info: [1:26:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:26:15.196Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:26:15.196Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:26:15.197Z - info: 1. admin/index
+2022-04-11T17:26:16.211Z - info: Rebuilding 1 pages
+2022-04-11T17:26:17.532Z - info: Site data built
+2022-04-11T17:26:17.532Z - info: Pages rebuilt
+2022-04-11T17:26:17.532Z - info: Website regeneration complete! Total build time: 1.323s
+2022-04-11T17:26:32.570Z - info: [1:26:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:26:32.570Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:26:32.571Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:26:32.571Z - info: 1. admin/index
+2022-04-11T17:26:33.582Z - info: Rebuilding 1 pages
+2022-04-11T17:26:34.876Z - info: Site data built
+2022-04-11T17:26:34.876Z - info: Pages rebuilt
+2022-04-11T17:26:34.876Z - info: Website regeneration complete! Total build time: 1.294s
+2022-04-11T17:29:51.153Z - info: [1:29:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:29:51.153Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:29:51.154Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:29:51.154Z - info: 1. admin/index
+2022-04-11T17:29:52.169Z - info: Rebuilding 1 pages
+2022-04-11T17:29:53.472Z - info: Site data built
+2022-04-11T17:29:53.472Z - info: Pages rebuilt
+2022-04-11T17:29:53.472Z - info: Website regeneration complete! Total build time: 1.304s
+2022-04-11T17:30:22.809Z - info: [1:30:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:30:22.809Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:30:22.810Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:30:22.810Z - info: 1. admin/index
+2022-04-11T17:30:23.829Z - info: Rebuilding 1 pages
+2022-04-11T17:30:25.108Z - info: Site data built
+2022-04-11T17:30:25.108Z - info: Pages rebuilt
+2022-04-11T17:30:25.108Z - info: Website regeneration complete! Total build time: 1.282s
+2022-04-11T17:30:31.624Z - info: [1:30:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:30:31.624Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:30:31.624Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:30:31.624Z - info: 1. admin/index
+2022-04-11T17:30:32.638Z - info: Rebuilding 1 pages
+2022-04-11T17:30:33.686Z - info: Site data built
+2022-04-11T17:30:33.686Z - info: Pages rebuilt
+2022-04-11T17:30:33.686Z - info: Website regeneration complete! Total build time: 1.049s
+2022-04-11T17:31:09.300Z - info: [1:31:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:31:09.301Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:31:09.301Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:31:09.301Z - info: 1. admin/index
+2022-04-11T17:31:10.312Z - info: Rebuilding 1 pages
+2022-04-11T17:31:11.581Z - info: Site data built
+2022-04-11T17:31:11.581Z - info: Pages rebuilt
+2022-04-11T17:31:11.581Z - info: Website regeneration complete! Total build time: 1.27s
+2022-04-11T17:31:18.595Z - info: [1:31:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:31:18.596Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:31:18.596Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:31:18.596Z - info: 1. admin/index
+2022-04-11T17:31:19.602Z - info: Rebuilding 1 pages
+2022-04-11T17:31:20.649Z - info: Site data built
+2022-04-11T17:31:20.649Z - info: Pages rebuilt
+2022-04-11T17:31:20.649Z - info: Website regeneration complete! Total build time: 1.048s
+2022-04-11T17:32:09.697Z - info: [1:32:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:32:09.698Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:32:09.698Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:32:09.699Z - info: 1. admin/index
+2022-04-11T17:32:10.703Z - info: Rebuilding 1 pages
+2022-04-11T17:32:11.978Z - info: Site data built
+2022-04-11T17:32:11.978Z - info: Pages rebuilt
+2022-04-11T17:32:11.978Z - info: Website regeneration complete! Total build time: 1.276s
+2022-04-11T17:32:23.940Z - info: [1:32:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:32:23.940Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:32:23.940Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:32:23.940Z - info: 1. admin/index
+2022-04-11T17:32:24.944Z - info: Rebuilding 1 pages
+2022-04-11T17:32:26.080Z - info: Site data built
+2022-04-11T17:32:26.080Z - info: Pages rebuilt
+2022-04-11T17:32:26.080Z - info: Website regeneration complete! Total build time: 1.138s
+2022-04-11T17:32:48.948Z - info: [1:32:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:32:48.948Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:32:48.948Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:32:48.948Z - info: 1. admin/index
+2022-04-11T17:32:49.956Z - info: Rebuilding 1 pages
+2022-04-11T17:32:51.301Z - info: Site data built
+2022-04-11T17:32:51.302Z - info: Pages rebuilt
+2022-04-11T17:32:51.302Z - info: Website regeneration complete! Total build time: 1.347s
+2022-04-11T17:33:45.086Z - info: [1:33:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:33:45.086Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:33:45.086Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:33:45.086Z - info: 1. admin/index
+2022-04-11T17:33:46.100Z - info: Rebuilding 1 pages
+2022-04-11T17:33:47.310Z - info: Site data built
+2022-04-11T17:33:47.310Z - info: Pages rebuilt
+2022-04-11T17:33:47.310Z - info: Website regeneration complete! Total build time: 1.211s
+2022-04-11T17:35:25.832Z - info: [1:35:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:35:25.833Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:35:25.833Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:35:25.833Z - info: 1. admin/index
+2022-04-11T17:35:26.849Z - info: Rebuilding 1 pages
+2022-04-11T17:35:28.201Z - info: Site data built
+2022-04-11T17:35:28.201Z - info: Pages rebuilt
+2022-04-11T17:35:28.202Z - info: Website regeneration complete! Total build time: 1.353s
+2022-04-11T17:35:36.844Z - info: [1:35:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:35:36.844Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:35:36.844Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:35:36.844Z - info: 1. admin/index
+2022-04-11T17:35:37.863Z - info: Rebuilding 1 pages
+2022-04-11T17:35:38.888Z - info: Site data built
+2022-04-11T17:35:38.888Z - info: Pages rebuilt
+2022-04-11T17:35:38.888Z - info: Website regeneration complete! Total build time: 1.026s
+2022-04-11T17:35:44.933Z - info: [1:35:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:35:44.933Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:35:44.933Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:35:44.933Z - info: 1. admin/index
+2022-04-11T17:35:45.945Z - info: Rebuilding 1 pages
+2022-04-11T17:35:46.890Z - info: Site data built
+2022-04-11T17:35:46.890Z - info: Pages rebuilt
+2022-04-11T17:35:46.890Z - info: Website regeneration complete! Total build time: 0.945s
+2022-04-11T17:51:17.993Z - info: [1:51:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:51:17.994Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:51:17.994Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:51:17.994Z - info: 1. admin/index
+2022-04-11T17:51:19.000Z - info: Rebuilding 1 pages
+2022-04-11T17:51:20.465Z - info: Site data built
+2022-04-11T17:51:20.465Z - info: Pages rebuilt
+2022-04-11T17:51:20.465Z - info: Website regeneration complete! Total build time: 1.467s
+2022-04-11T17:52:03.075Z - info: [1:52:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:52:03.075Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:52:03.076Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:52:03.076Z - info: 1. admin/index
+2022-04-11T17:52:04.084Z - info: Rebuilding 1 pages
+2022-04-11T17:52:05.360Z - info: Site data built
+2022-04-11T17:52:05.360Z - info: Pages rebuilt
+2022-04-11T17:52:05.360Z - info: Website regeneration complete! Total build time: 1.277s
+2022-04-11T17:58:40.803Z - info: [1:58:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:58:40.803Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:58:40.804Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:58:40.804Z - info: 1. admin/index
+2022-04-11T17:58:41.819Z - info: Rebuilding 1 pages
+2022-04-11T17:58:43.342Z - info: Site data built
+2022-04-11T17:58:43.343Z - info: Pages rebuilt
+2022-04-11T17:58:43.343Z - info: Website regeneration complete! Total build time: 1.525s
+2022-04-11T17:59:39.568Z - info: [1:59:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T17:59:39.568Z - info: Synchronizing opened pages list before reload
+2022-04-11T17:59:39.568Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T17:59:39.569Z - info: 1. admin/index
+2022-04-11T17:59:40.586Z - info: Rebuilding 1 pages
+2022-04-11T17:59:41.920Z - info: Site data built
+2022-04-11T17:59:41.920Z - info: Pages rebuilt
+2022-04-11T17:59:41.920Z - info: Website regeneration complete! Total build time: 1.335s
+2022-04-11T18:00:32.602Z - info: [2:00:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T18:00:32.603Z - info: Synchronizing opened pages list before reload
+2022-04-11T18:00:32.603Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T18:00:32.603Z - info: 1. admin/index
+2022-04-11T18:00:33.613Z - info: Rebuilding 1 pages
+2022-04-11T18:00:34.929Z - info: Site data built
+2022-04-11T18:00:34.929Z - info: Pages rebuilt
+2022-04-11T18:00:34.929Z - info: Website regeneration complete! Total build time: 1.317s
+2022-04-11T18:06:29.500Z - info: [2:06:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T18:06:29.501Z - info: Synchronizing opened pages list before reload
+2022-04-11T18:06:29.501Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T18:06:29.502Z - info: 1. admin/index
+2022-04-11T18:06:30.514Z - info: Rebuilding 1 pages
+2022-04-11T18:06:32.025Z - info: Site data built
+2022-04-11T18:06:32.025Z - info: Pages rebuilt
+2022-04-11T18:06:32.025Z - info: Website regeneration complete! Total build time: 1.515s
+2022-04-11T18:07:15.337Z - info: [2:07:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2022-04-11T18:07:15.337Z - info: Synchronizing opened pages list before reload
+2022-04-11T18:07:15.338Z - info: Current opened pages, from most-to-least recent:
+2022-04-11T18:07:15.338Z - info: 1. admin/index
+2022-04-11T18:07:16.346Z - info: Rebuilding 1 pages
+2022-04-11T18:07:17.392Z - info: Site data built
+2022-04-11T18:07:17.392Z - info: Pages rebuilt
+2022-04-11T18:07:17.392Z - info: Website regeneration complete! Total build time: 1.046s
+2022-04-11T18:16:13.681Z - info: Website generation started at 2:16:11 am
+2022-04-11T18:16:19.681Z - info: Building assets...
+2022-04-11T18:16:24.724Z - info: Assets built
+2022-04-11T18:16:24.725Z - info: Generating pages...
+2022-04-11T18:16:36.752Z - debug:  
+2022-04-11T18:16:36.753Z - debug:  
+2022-04-11T18:16:36.753Z - debug:  
+2022-04-11T18:16:36.754Z - debug:  
+2022-04-11T18:16:36.754Z - debug:  
+2022-04-11T18:17:15.008Z - debug:  
+2022-04-11T18:18:12.992Z - info: Pages built
+2022-04-11T18:18:14.221Z - info: Site data built
+2022-04-11T18:18:14.222Z - info: Website generation complete! Total build time: 122.881s
+2022-04-11T18:18:14.222Z - info: Build success!
+2022-04-11T18:20:30.666Z - info: The website has been deployed at: https://nus-tic2002-2022.github.io/website
+2022-04-11T18:21:47.873Z - info: Website generation started at 2:21:43 am
+2022-04-11T18:21:53.504Z - info: Building assets...
+2022-04-11T18:21:58.843Z - info: Assets built
+2022-04-11T18:21:58.844Z - info: Generating pages...
+2022-04-11T18:22:06.946Z - debug:  
+2022-04-11T18:22:06.948Z - debug:  
+2022-04-11T18:22:12.279Z - debug:  
+2022-04-11T18:22:12.280Z - debug:  
+2022-04-11T18:22:29.320Z - debug:  
+2022-04-11T18:22:50.660Z - debug:  
+2022-04-11T18:23:48.480Z - info: Pages built
+2022-04-11T18:23:49.999Z - info: Site data built
+2022-04-11T18:23:50.000Z - info: Website generation complete! Total build time: 126.433s
+2022-04-11T18:23:50.000Z - info: Build success!
+2022-04-11T18:26:25.577Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
+2022-04-12T13:13:48.672Z - info: Website generation started at 9:13:42 pm
+2022-04-12T13:13:54.636Z - info: Building assets...
+2022-04-12T13:13:59.925Z - info: Assets built
+2022-04-12T13:13:59.925Z - info: Generating pages...
+2022-04-12T13:14:08.743Z - debug:  
+2022-04-12T13:14:08.743Z - debug:  
+2022-04-12T13:14:13.678Z - debug:  
+2022-04-12T13:14:13.679Z - debug:  
+2022-04-12T13:14:30.562Z - debug:  
+2022-04-12T13:14:45.104Z - debug:  
+2022-04-12T13:15:27.374Z - info: Pages built
+2022-04-12T13:15:28.531Z - info: Site data built
+2022-04-12T13:15:28.531Z - info: Website generation complete! Total build time: 106.027s
+2022-04-12T13:15:28.531Z - info: Build success!
+2022-04-12T13:17:33.338Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
