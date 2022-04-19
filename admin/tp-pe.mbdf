@@ -228,6 +228,15 @@ Use the person's PPP and RepoSense page to evaluate the effort.
 
 This phase is for you to respond to the bug reports you received.
 
+<box type="important" >
+
+****This is not a bug; it's fine the way it is!**** Everytime you say that in response to a legitimate bug report, you are saying something about your own standard of work as s software engineer. Don't set that standard too low, which goes totally against what we are trying to achieve in this module.
+
+**:fas-check: Yes, that needs fixing!** For each bug report you receive, if you think a software engineer who takes pride in their own work would say "yes, that needs fixing", accept it graciously as a bug, even if you can come up with _some_ argument for it not being a bug. Your professional integrity is more valuable than a measly fraction of a mark that you might lose.
+
+**_Some_ bugs are 'expected'.** Given the short time you had for the tP and your inexperience in SE team projects, this work is not expected to be totally bug free. The grading scheme factors that in already -- i.e., your grade will not suffer if you accept a few bugs in this phase.
+</box>
+
 <box type="tip" seamless>
 
 **Bonus marks for high accuracy rates!**{.text-success}
@@ -387,7 +396,7 @@ Only the `response.Accepted` bugs are counted against the dev team. While `respo
 {{ icon_important_big_red }} While you are waiting for Phase 3 to start, comments will be added to the bug reports in your `/pe` repo, to indicate the response each received from the receiving team. <span class="text-danger">Please do not edit any of those comments or reply to them via the GitHub interface.</span> Doing so can invalidate them, in which case the grading script will assume that you agree with the dev team's response. Instead, wait till the start of the Phase 3 is announced, after which you should use CATcher to respond.
 </div>
 
-==**Deadline:** {{ get_date(date_w13_start, 13) }}==
+==**Deadline:** {{ get_date(date_w13_start, 14) }}==
 
 * In this phase you will get to state whether you agree or disagree with the dev team's response to the bugs you reported. If a bug reported has been subjected to any of the below by the receiving dev team, you can record your objections and the reason for the objection.
   * not accepted
